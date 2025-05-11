@@ -42,4 +42,4 @@ g++ main.cpp -o timber -lsfml-graphics -lsfml-window -lsfml-system -lsfml-audio
 ./timber
 
 ```
-###### This game was developed as a semester project during the Game Development module in our Computer Science syllabus
+###### NOTE This game was developed as a semester project during the Game Development module in our Computer Science syllabus
